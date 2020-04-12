@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1586697229239,87,http://47.100.187.197:8080/Login/LogOn,200,,Thread Group 1-1,text,true,,481,491,1,1,http://47.100.187.197:8080/Login/LogOn,85,0,56
+1586697229333,19,http://47.100.187.197:8080/Device/Search,200,,Thread Group 1-1,text,true,,771,551,1,1,http://47.100.187.197:8080/Device/Search,19,0,0
+1586697229169,106,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1252,1042,1,1,null,104,74,56
+1586697229364,47,http://47.100.187.197:8080/Login/LogOn,200,,Thread Group 1-1,text,true,,481,491,1,1,http://47.100.187.197:8080/Login/LogOn,47,0,10
+1586697229412,15,http://47.100.187.197:8080/Device/Search,200,,Thread Group 1-1,text,true,,771,551,1,1,http://47.100.187.197:8080/Device/Search,14,0,0
+1586697229353,62,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1252,1042,1,1,null,61,12,10
+1586697229428,41,http://47.100.187.197:8080/Login/LogOn,200,,Thread Group 1-1,text,true,,481,491,1,1,http://47.100.187.197:8080/Login/LogOn,40,0,8
+1586697229470,24,http://47.100.187.197:8080/Device/Search,200,,Thread Group 1-1,text,true,,771,551,1,1,http://47.100.187.197:8080/Device/Search,24,0,0
+1586697229427,65,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1252,1042,1,1,null,64,2,8
+1586697229495,38,http://47.100.187.197:8080/Login/LogOn,200,,Thread Group 1-1,text,true,,481,491,1,1,http://47.100.187.197:8080/Login/LogOn,38,0,9
+1586697229535,16,http://47.100.187.197:8080/Device/Search,200,,Thread Group 1-1,text,true,,771,551,1,1,http://47.100.187.197:8080/Device/Search,16,0,0
+1586697229494,54,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1252,1042,1,1,null,54,4,9
+1586697229553,57,http://47.100.187.197:8080/Login/LogOn,200,,Thread Group 1-1,text,true,,481,491,1,1,http://47.100.187.197:8080/Login/LogOn,57,0,9
+1586697229611,17,http://47.100.187.197:8080/Device/Search,200,,Thread Group 1-1,text,true,,771,551,1,1,http://47.100.187.197:8080/Device/Search,17,0,0
+1586697229552,74,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1252,1042,1,1,null,74,3,9
+1586697229630,37,http://47.100.187.197:8080/Login/LogOn,200,,Thread Group 1-1,text,true,,481,491,1,1,http://47.100.187.197:8080/Login/LogOn,37,0,10
+1586697229668,22,http://47.100.187.197:8080/Device/Search,200,,Thread Group 1-1,text,true,,771,551,1,1,http://47.100.187.197:8080/Device/Search,22,0,0
+1586697229629,59,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1252,1042,1,1,null,59,3,10
+1586697229692,28,http://47.100.187.197:8080/Login/LogOn,200,,Thread Group 1-1,text,true,,481,491,1,1,http://47.100.187.197:8080/Login/LogOn,28,0,11
+1586697229721,16,http://47.100.187.197:8080/Device/Search,200,,Thread Group 1-1,text,true,,771,551,1,1,http://47.100.187.197:8080/Device/Search,16,0,0
+1586697229691,44,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1252,1042,1,1,null,44,2,11
+1586697229738,42,http://47.100.187.197:8080/Login/LogOn,200,,Thread Group 1-1,text,true,,481,491,1,1,http://47.100.187.197:8080/Login/LogOn,42,0,11
+1586697229781,18,http://47.100.187.197:8080/Device/Search,200,,Thread Group 1-1,text,true,,771,551,1,1,http://47.100.187.197:8080/Device/Search,18,0,0
+1586697229738,60,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1252,1042,1,1,null,60,1,11
+1586697229802,84,http://47.100.187.197:8080/Login/LogOn,200,,Thread Group 1-1,text,true,,481,491,1,1,http://47.100.187.197:8080/Login/LogOn,84,0,61
+1586697229887,21,http://47.100.187.197:8080/Device/Search,200,,Thread Group 1-1,text,true,,771,551,1,1,http://47.100.187.197:8080/Device/Search,21,0,0
+1586697229799,105,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1252,1042,1,1,null,105,4,61
+1586697229909,22,http://47.100.187.197:8080/Login/LogOn,200,,Thread Group 1-1,text,true,,481,491,1,1,http://47.100.187.197:8080/Login/LogOn,22,0,8
+1586697229932,36,http://47.100.187.197:8080/Device/Search,200,,Thread Group 1-1,text,true,,771,551,1,1,http://47.100.187.197:8080/Device/Search,36,0,0
+1586697229908,58,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1252,1042,1,1,null,58,2,8
